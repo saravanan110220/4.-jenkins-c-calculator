@@ -15,7 +15,7 @@ int main() {
 
     switch(choice) {
         case 1:
-            printf("Result: %d\n", a + b);
+            printf("Addition Result: %d\n", a + b);
             break;
         case 2:
             printf("Result: %d\n", a - b);
