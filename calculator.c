@@ -32,6 +32,6 @@ int main() {
         default:
             printf("Invalid choice\n");
     }
-
+   printf("new chnages");
     return 0;
 }
